@@ -6,8 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/aniruddha"><img src="https://api.daily.dev/devcards/v2/cfSSi6mlvM1tXRHldopM9.png?type=default&r=n41" width="356" alt="Aniruddha Majumdar's Dev Card"/></a>
-
 <!---
 aniruddha-sunyam/aniruddha-sunyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
